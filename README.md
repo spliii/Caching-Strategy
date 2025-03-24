@@ -95,6 +95,8 @@ bash
 
 **截止日期：** 2025年6月20日 23:59（UTC+8）。
 
+如有疑问，请联系 wzbwangzhibin@gmail.com 或 spli161006@gmail.com。
+
 ## 附：示例策略伪代码
 
 ```python
@@ -117,3 +119,4 @@ class LFUCache:
                         victim_id = candidates[0][0]  
                         del self.cache[victim_id]
 ```
+
