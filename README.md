@@ -86,7 +86,7 @@ bash
 │   ├── hybrid.py        # 自定义策略示例  
 ├── evaluator/           # 设计一个模块，用于评估你的方法在某个数据集下的cache命中率
 ├── results/             # 输出结果  
-│   ├── test_hits.csv    # 格式：request_index, hit_flag(0/1), hit_ratio(%)  
+│   ├── test_hits.csv    # 格式：request_index, hit_flag(0/1), hit_rate(%)  
 └── report.pdf           # 实验分析报告
 ```
 
